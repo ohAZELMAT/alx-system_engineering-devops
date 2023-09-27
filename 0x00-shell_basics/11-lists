@@ -1,2 +1,2 @@
 #!/bin/bash
-cd 0x00-shell_basics ls -la cd alx-system_engineering-devops ls -la cd /boot ls -la 
+ls -la  
